@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bniladridas/press/main/.github/assets/thumbnail.png" alt="press" width="100%">
+</p>
+
 # Press
 
 A bookshelf of Christian books.

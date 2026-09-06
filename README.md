@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/press/main/.github/assets/thumbnail.png" alt="press" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/bniladridas/press/main/.github/assets/thumbnail.png" alt="press" width="100%">
 </p>
 

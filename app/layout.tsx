@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "Press",
     description:
       "A bookshelf of Christian books.",
-    url: "https://bniladridas.github.io/press",
+    url: "https://coccinella-labs.github.io/press",
     siteName: "Press",
     locale: "en_US",
     type: "website",

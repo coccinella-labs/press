@@ -53,7 +53,7 @@ Edit `content/books.json`. Each book requires:
 
 Press uses quiet, respectful, precise language. Descriptions use words like "explores," "examines," "argues," and "reflects on." They avoid "brilliant," "powerful," "essential," and "groundbreaking."
 
-See the [editorial policy](https://bniladridas.github.io/press/editorial-policy) for full details.
+See the [editorial policy](https://coccinella-labs.github.io/press/editorial-policy) for full details.
 
 ## Deployment
 

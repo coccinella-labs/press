@@ -47,7 +47,7 @@ Everyone
 
 ## Privacy Policy URL
 
-https://bniladridas.github.io/press/privacy
+https://coccinella-labs.github.io/press/privacy
 
 ## Support URL
 

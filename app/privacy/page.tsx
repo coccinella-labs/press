@@ -105,12 +105,12 @@ export default function PrivacyPage() {
             <p className="text-text-secondary leading-relaxed">
               For questions about this privacy policy, please open an issue at{" "}
               <a
-                href="https://github.com/bniladridas/press/issues"
+                href="https://github.com/coccinella-labs/press/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-accent transition-colors"
               >
-                github.com/bniladridas/press/issues
+                github.com/coccinella-labs/press/issues
               </a>
               .
             </p>

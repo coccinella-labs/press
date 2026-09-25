@@ -45,8 +45,8 @@ Press does not collect data from anyone, including children under 13.
 
 ## Changes to This Policy
 
-If this privacy policy changes, the updated version will be available in the app repository at [github.com/bniladridas/press](https://github.com/bniladridas/press).
+If this privacy policy changes, the updated version will be available in the app repository at [github.com/coccinella-labs/press](https://github.com/coccinella-labs/press).
 
 ## Contact
 
-For questions about this privacy policy, please open an issue at [github.com/bniladridas/press/issues](https://github.com/bniladridas/press/issues).
+For questions about this privacy policy, please open an issue at [github.com/coccinella-labs/press/issues](https://github.com/coccinella-labs/press/issues).

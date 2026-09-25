@@ -51,7 +51,7 @@ https://bniladridas.github.io/press/privacy
 
 ## Support URL
 
-https://github.com/bniladridas/press/issues
+https://github.com/coccinella-labs/press/issues
 
 ## What's New in This Release
 
